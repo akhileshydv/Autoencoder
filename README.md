@@ -1,2 +1,2 @@
 # Autoencoder
-A tutorial on Analytics Vidhya
+A practice tutorial on Analytics Vidhya
